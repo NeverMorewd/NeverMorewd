@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/NeverMorewd?style=social)](https://github.com/NeverMorewd)
+[![GitHub Stars](https://img.shields.io/github/stars/NeverMorewd?style=social)](https://github.com/NeverMorewd)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/NeverMorewd/NeverMorewd)](https://github.com/NeverMorewd)
+[![GitHub issues](https://img.shields.io/github/issues/NeverMorewd/NeverMorewd)](https://github.com/NeverMorewd)
+
 <!--
 **NeverMorewd/NeverMorewd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,14 +1,7 @@
-# 👋 Hi, I'm @Easley
-
-## 📊 GitHub Activities
-![](https://img.shields.io/github/stars/NeverMorewd?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge&logo=github&label=Total%20Stars)
-![](https://img.shields.io/github/issues-closed-raw/NeverMorewd?color=yellow&label=Issues%20Closed&style=for-the-badge)
-![](https://img.shields.io/github/issues-pr-closed-raw/NeverMorewd?color=brightgreen&label=PRs%20Closed&style=for-the-badge)
-
-## 📈 Contribution Graph
+# 👋 Hi, I'm @Easley 
+## ![](https://img.shields.io/github/stars/NeverMorewd?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge&logo=github&label=Total%20Stars)
+## ![GitHub Contribution Overview](https://github-contribution-stats.vercel.app/api/?username=NeverMorewd)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=NeverMorewd&theme=react-dark)
-
-## 🏆 GitHub Profile Trophy
 ![](https://github-profile-trophy.vercel.app/?username=NeverMorewd&theme=radical&row=1)
 
 <!--

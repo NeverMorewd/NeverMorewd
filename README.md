@@ -13,12 +13,21 @@
 
 ## About Me
 
-.NET developer specializing in **cross-platform desktop UI** with deep expertise in **Avalonia UI**, **WPF**, and **WinUI 3**. I build production-grade libraries, developer tools, and AI-integrated applications — from NuGet packages to retro-themed desktop experiences.
+Full-stack developer covering the whole spectrum — **Desktop · Mobile · Web · Backend · DevOps**.
+Building with **.NET / C#**, **Flutter / Dart**, **TypeScript**, across **Windows, macOS, Linux, iOS, Android** and **WebAssembly**.
+Open-source library author · NuGet publisher · AI tooling enthusiast.
 
-- Crafting reusable .NET libraries and publishing to NuGet
-- Cross-platform from Windows to macOS, Linux, Mobile and **WebAssembly**
-- Exploring AI tooling with **MCP** and **gRPC** integrations
-- Open to collaboration and new opportunities
+---
+
+## Live Demos
+
+<div align="center">
+
+[![AsyncNavigation](https://img.shields.io/badge/AsyncNavigation-Demo-8B2BE2?style=for-the-badge&logo=dotnet&logoColor=white)](https://nevermorewd.github.io/AsyncNavigation/)
+[![Pipboy.Avalonia](https://img.shields.io/badge/Pipboy.Avalonia-Demo-4CAF50?style=for-the-badge&logo=dotnet&logoColor=white)](https://nevermorewd.github.io/Pipboy.Avalonia/)
+[![IronVault](https://img.shields.io/badge/IronVault-Play_in_Browser-FF6B35?style=for-the-badge&logo=gamepad&logoColor=white)](https://nevermorewd.github.io/IronVault/)
+
+</div>
 
 ---
 

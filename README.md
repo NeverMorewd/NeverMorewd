@@ -35,23 +35,15 @@ Open-source library author · NuGet publisher · AI tooling enthusiast.
 
 <div align="center">
 
-### Languages
-[![Skills](https://skillicons.dev/icons?i=cs,dart,ts,python&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,dart,ts,py,dotnet,flutter,wasm,azure,github,githubactions,docker&theme=dark&perline=11)](https://skillicons.dev)
 
-### Frameworks & Platforms
-[![Skills](https://skillicons.dev/icons?i=dotnet,flutter,wasm&theme=dark)](https://skillicons.dev)
-
-![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-8B2BE2?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WinUI3](https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-
-### DevOps & Tools
-[![Skills](https://skillicons.dev/icons?i=azure,github,githubactions,docker&theme=dark)](https://skillicons.dev)
-
-![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
-![Native AOT](https://img.shields.io/badge/Native_AOT-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-8B2BE2?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WinUI3](https://img.shields.io/badge/WinUI_3-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white)
+![Native AOT](https://img.shields.io/badge/Native_AOT-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 

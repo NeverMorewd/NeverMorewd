@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dong+%F0%9F%91%8B;.NET+%2F+Cross-Platform+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -13,9 +13,13 @@
 
 ## About Me
 
-Full-stack developer covering the whole spectrum — **Desktop · Mobile · Web · Backend · DevOps**.
-Building with **.NET / C#**, **Flutter / Dart**, **TypeScript**, across **Windows, macOS, Linux, iOS, Android** and **WebAssembly**.
-Open-source library author · NuGet publisher · AI tooling enthusiast.
+Senior software engineer with 10+ years of experience delivering full-stack solutions across **desktop, mobile, web, and backend**.
+
+- **Core expertise:** .NET / C#, Flutter, TypeScript, Python
+- **Platforms:** Windows · macOS · Linux · iOS · Android · Web
+- **DevOps:** GitHub · Azure · Docker · CloudFlare · Vercle · Supabase
+
+🌐 Open to new opportunities
 
 ---
 
@@ -34,14 +38,6 @@ Open-source library author · NuGet publisher · AI tooling enthusiast.
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=cs,dart,ts,py,dotnet,flutter,wasm,azure,github,githubactions,docker&theme=dark&perline=11)](https://skillicons.dev)
-
-![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-8B2BE2?style=flat-square&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WinUI3](https://img.shields.io/badge/WinUI_3-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
-![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white)
-![Native AOT](https://img.shields.io/badge/Native_AOT-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 

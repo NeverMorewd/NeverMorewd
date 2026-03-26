@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dong+%F0%9F%91%8B;.NET+%2F+Cross-Platform+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -19,13 +19,11 @@ Open-source library author · NuGet publisher · AI tooling enthusiast.
 
 ---
 
-## Live Demos
+## GitHub Stats
 
 <div align="center">
 
-[![AsyncNavigation](https://img.shields.io/badge/AsyncNavigation-Demo-8B2BE2?style=for-the-badge&logo=dotnet&logoColor=white)](https://nevermorewd.github.io/AsyncNavigation/)
-[![Pipboy.Avalonia](https://img.shields.io/badge/Pipboy.Avalonia-Demo-4CAF50?style=for-the-badge&logo=dotnet&logoColor=white)](https://nevermorewd.github.io/Pipboy.Avalonia/)
-[![IronVault](https://img.shields.io/badge/IronVault-Play_in_Browser-FF6B35?style=for-the-badge&logo=gamepad&logoColor=white)](https://nevermorewd.github.io/IronVault/)
+![GitHub Metrics](github-metrics.svg)
 
 </div>
 
@@ -49,11 +47,13 @@ Open-source library author · NuGet publisher · AI tooling enthusiast.
 
 ---
 
-## GitHub Stats
+## Live Demos
 
 <div align="center">
 
-![GitHub Metrics](github-metrics.svg)
+[![AsyncNavigation](https://img.shields.io/badge/AsyncNavigation-Demo-8B2BE2?style=for-the-badge&logo=dotnet&logoColor=white)](https://nevermorewd.github.io/AsyncNavigation/)
+[![Pipboy.Avalonia](https://img.shields.io/badge/Pipboy.Avalonia-Demo-4CAF50?style=for-the-badge&logo=dotnet&logoColor=white)](https://nevermorewd.github.io/Pipboy.Avalonia/)
+[![IronVault](https://img.shields.io/badge/IronVault-Play_in_Browser-FF6B35?style=for-the-badge&logo=gamepad&logoColor=white)](https://nevermorewd.github.io/IronVault/)
 
 </div>
 

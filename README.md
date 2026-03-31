@@ -37,7 +37,7 @@ Senior software engineer with 10+ years of experience delivering full-stack solu
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=cs,dart,ts,py,dotnet,flutter,wasm,azure,github,githubactions,docker&theme=dark&perline=11)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cs,ts,py,dotnet,flutter,wasm,angular,electron,nodejs,sqlite,azure,github,githubactions,vscode,linux,rider,windows,androidstudio&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 

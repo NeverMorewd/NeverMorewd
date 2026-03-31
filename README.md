@@ -27,7 +27,7 @@ Senior software engineer with 10+ years of experience delivering full-stack solu
 
 <div align="center">
 
-![GitHub Metrics](github-metrics.svg)
+![GitHub Metrics](github-metrics.png)
 
 </div>
 

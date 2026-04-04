@@ -43,6 +43,15 @@
   </tr>
   <tr>
     <td><a href="https://github.com/NeverMorewd/IronVault"><img src="https://gh-card.dev/repos/NeverMorewd/IronVault.svg?fullname=" /></a></td>
+    <td><a href="https://github.com/NeverMorewd/DevCleaner"><img src="https://gh-card.dev/repos/NeverMorewd/DevCleaner.svg?fullname=" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/NeverMorewd/Portkey"><img src="https://gh-card.dev/repos/NeverMorewd/Portkey.svg?fullname=" /></a></td>
+    <td><a href="https://github.com/NeverMorewd/Lemon.ShadowFiend"><img src="https://gh-card.dev/repos/NeverMorewd/Lemon.ShadowFiend.svg?fullname=" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/NeverMorewd/holes"><img src="https://gh-card.dev/repos/NeverMorewd/holes.svg?fullname=" /></a></td>
+    <td><a href="https://github.com/NeverMorewd/Hosting.Avaloniaui"><img src="https://gh-card.dev/repos/NeverMorewd/Hosting.Avaloniaui.svg?fullname=" /></a></td>
   </tr>
 </table>
 

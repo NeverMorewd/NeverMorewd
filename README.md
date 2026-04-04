@@ -36,9 +36,9 @@
 
 <div align="center">
 
-[![AsyncNavigation](https://github-readme-stats.vercel.app/api/pin/?username=NeverMorewd&repo=AsyncNavigation&theme=github_dark&hide_border=true)](https://github.com/NeverMorewd/AsyncNavigation)
-[![Pipboy.Avalonia](https://github-readme-stats.vercel.app/api/pin/?username=NeverMorewd&repo=Pipboy.Avalonia&theme=github_dark&hide_border=true)](https://github.com/NeverMorewd/Pipboy.Avalonia)
-[![IronVault](https://github-readme-stats.vercel.app/api/pin/?username=NeverMorewd&repo=IronVault&theme=github_dark&hide_border=true)](https://github.com/NeverMorewd/IronVault)
+[![AsyncNavigation](https://gh-card.dev/repos/NeverMorewd/AsyncNavigation.svg?fullname=)](https://github.com/NeverMorewd/AsyncNavigation)
+[![Pipboy.Avalonia](https://gh-card.dev/repos/NeverMorewd/Pipboy.Avalonia.svg?fullname=)](https://github.com/NeverMorewd/Pipboy.Avalonia)
+[![IronVault](https://gh-card.dev/repos/NeverMorewd/IronVault.svg?fullname=)](https://github.com/NeverMorewd/IronVault)
 
 </div>
 

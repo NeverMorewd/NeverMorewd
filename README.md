@@ -13,13 +13,9 @@
 
 ## About Me
 
-Senior software engineer with 10+ years of experience delivering full-stack solutions across **desktop, mobile, web, and backend**.
-
 - **Core expertise:** .NET / C#, Flutter, TypeScript, Python
 - **Platforms:** Windows · macOS · Linux · iOS · Android · Web
 - **DevOps:** GitHub · Azure · Docker · CloudFlare · Vercle · Supabase
-
-🌐 Open to new opportunities
 
 ---
 

@@ -32,8 +32,6 @@
 
 </div>
 
----
-
 ## Live Demos
 
 <div align="center">

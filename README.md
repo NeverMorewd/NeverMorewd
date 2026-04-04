@@ -36,9 +36,15 @@
 
 <div align="center">
 
-[![AsyncNavigation](https://gh-card.dev/repos/NeverMorewd/AsyncNavigation.svg?fullname=)](https://github.com/NeverMorewd/AsyncNavigation)
-[![Pipboy.Avalonia](https://gh-card.dev/repos/NeverMorewd/Pipboy.Avalonia.svg?fullname=)](https://github.com/NeverMorewd/Pipboy.Avalonia)
-[![IronVault](https://gh-card.dev/repos/NeverMorewd/IronVault.svg?fullname=)](https://github.com/NeverMorewd/IronVault)
+<table>
+  <tr>
+    <td><a href="https://github.com/NeverMorewd/AsyncNavigation"><img src="https://gh-card.dev/repos/NeverMorewd/AsyncNavigation.svg?fullname=" /></a></td>
+    <td><a href="https://github.com/NeverMorewd/Pipboy.Avalonia"><img src="https://gh-card.dev/repos/NeverMorewd/Pipboy.Avalonia.svg?fullname=" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/NeverMorewd/IronVault"><img src="https://gh-card.dev/repos/NeverMorewd/IronVault.svg?fullname=" /></a></td>
+  </tr>
+</table>
 
 </div>
 

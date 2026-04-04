@@ -36,24 +36,17 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><a href="https://github.com/NeverMorewd/AsyncNavigation"><img src="https://gh-card.dev/repos/NeverMorewd/AsyncNavigation.svg?fullname=" /></a></td>
-    <td><a href="https://github.com/NeverMorewd/Pipboy.Avalonia"><img src="https://gh-card.dev/repos/NeverMorewd/Pipboy.Avalonia.svg?fullname=" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/NeverMorewd/IronVault"><img src="https://gh-card.dev/repos/NeverMorewd/IronVault.svg?fullname=" /></a></td>
-    <td><a href="https://github.com/NeverMorewd/DevCleaner"><img src="https://gh-card.dev/repos/NeverMorewd/DevCleaner.svg?fullname=" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/NeverMorewd/Portkey"><img src="https://gh-card.dev/repos/NeverMorewd/Portkey.svg?fullname=" /></a></td>
-    <td><a href="https://github.com/NeverMorewd/Lemon.ShadowFiend"><img src="https://gh-card.dev/repos/NeverMorewd/Lemon.ShadowFiend.svg?fullname=" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/NeverMorewd/holes"><img src="https://gh-card.dev/repos/NeverMorewd/holes.svg?fullname=" /></a></td>
-    <td><a href="https://github.com/NeverMorewd/Hosting.Avaloniaui"><img src="https://gh-card.dev/repos/NeverMorewd/Hosting.Avaloniaui.svg?fullname=" /></a></td>
-  </tr>
-</table>
+[![AsyncNavigation](https://img.shields.io/badge/AsyncNavigation-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeverMorewd/AsyncNavigation)
+[![Pipboy.Avalonia](https://img.shields.io/badge/Pipboy.Avalonia-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeverMorewd/Pipboy.Avalonia)
+
+[![IronVault](https://img.shields.io/badge/IronVault-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeverMorewd/IronVault)
+[![DevCleaner](https://img.shields.io/badge/DevCleaner-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeverMorewd/DevCleaner)
+
+[![Portkey](https://img.shields.io/badge/Portkey-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeverMorewd/Portkey)
+[![Lemon.ShadowFiend](https://img.shields.io/badge/Lemon.ShadowFiend-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeverMorewd/Lemon.ShadowFiend)
+
+[![holes](https://img.shields.io/badge/holes-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeverMorewd/holes)
+[![Hosting.Avaloniaui](https://img.shields.io/badge/Hosting.Avaloniaui-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeverMorewd/Hosting.Avaloniaui)
 
 </div>
 

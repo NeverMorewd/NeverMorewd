@@ -9,15 +9,12 @@
 
 </div>
 
----
 
 ## About Me
 
 - **Core expertise:** .NET / C#, Flutter, TypeScript, Python
 - **Platforms:** Windows · macOS · Linux · iOS · Android · Web
 - **DevOps:** GitHub · Azure · Docker · CloudFlare · Vercle · Supabase
-
----
 
 ## GitHub Stats
 
@@ -26,8 +23,6 @@
 ![GitHub Metrics](github-metrics.png)
 
 </div>
-
----
 
 ## Tech Stack
 
@@ -48,8 +43,6 @@
 [![IronVault](https://img.shields.io/badge/IronVault-Play_in_Browser-FF6B35?style=for-the-badge&logo=gamepad&logoColor=white)](https://nevermorewd.github.io/IronVault/)
 
 </div>
-
----
 
 <div align="center">
 

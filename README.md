@@ -1,5 +1,7 @@
 ﻿<div align="center">
 
+## Convey the clearest business intent with minimal cognitive load.
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dong+%F0%9F%91%8B;.NET+%2F+Cross-Platform+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NeverMorewd&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/NeverMorewd)
